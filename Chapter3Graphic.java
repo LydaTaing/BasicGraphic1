@@ -1,7 +1,7 @@
 import java.awt.Color;
 import java.awt.Graphics;
 
-public class Chapter3Graphic {
+public class GraphicTesting {
 
 	public static final int width= 800, height = 800;
 	public static void main(String[] args) {
